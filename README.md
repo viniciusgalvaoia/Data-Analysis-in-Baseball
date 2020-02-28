@@ -1,7 +1,7 @@
 # Data-Analysis-in-Baseball
 
 <p align="center">
-  <img src="3386540.jpg" >
+  <img src="images/3386540.jpg" >
 </p>
 
 Usando uma nova tecnologia chamada Statcast, a Major League Baseball agora está coletando a localização e os movimentos precisos de suas bolas e jogadores.
