@@ -4,8 +4,8 @@
   <img src="images/3386540.jpg" >
 </p>
 
-Usando uma nova tecnologia chamada Statcast, a Major League Baseball agora está coletando a localização e os movimentos precisos de suas bolas e jogadores.
+Em 1847, o médico húngaro Ignaz Semmelweis faz uma descoberta inovadora: ele descobriu a lavagem das mãos. 
 
-Statcast é uma tecnologia de rastreamento de última geração, capaz de medir aspectos anteriormente não quantificáveis do jogo. Instalado nos 30 estádios da Major League, o Statcast coleta dados usando uma série de câmeras ópticas de alta resolução junto com equipamentos de radar. A tecnologia rastreia com precisão a localização e os movimentos da bola e de todos os jogadores em campo, resultando em uma quantidade incomparável de informações que abrangem tudo, desde o arremessador até o rebatedor. 
+Mãos contaminadas eram uma das principais causas de febre do parto e, ao impor a lavagem das mãos em seu hospital, ele salvou centenas de vidas.
 
-Neste projeto, usei os dados do Statcast para comparar os home runs de duas das estrelas mais brilhantes (e maiores) do beisebol, Aaron Judge (6'7 ") e Giancarlo Stanton (6'6"), que agora jogam pelo Ianques de Nova Iorque.
+Neste projeto python, vamos analisei novamente os dados médicos coletados por Semmelweis.
